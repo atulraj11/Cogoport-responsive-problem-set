@@ -6,7 +6,7 @@
 
   .sidebar{
     background-color: #FFFFFF;
-    width:300px;
+    width:285px;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -29,7 +29,7 @@
     }
     #main{
       position: absolute;
-      left: 288px;
+      left: 272px;
       width: 82%;
     }
   
