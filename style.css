@@ -39,7 +39,7 @@
     padding: 10px 0px 10px 0px;
   }
   .footer{
-    position: absolute;
+    position: fixed;
     bottom: 0px;
   }
 
