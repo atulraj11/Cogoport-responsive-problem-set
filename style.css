@@ -53,5 +53,8 @@
     padding:0px 0px 4px 16px;
     cursor: pointer;
   }
-  
+  #change_card{
+    border-radius: 1.3rem; 
+    border-width: 0.2rem;
+  }
   
